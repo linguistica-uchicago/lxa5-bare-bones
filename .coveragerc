@@ -1,8 +1,0 @@
-[run]
-source = linguistica/
-omit = linguistica/gui/*
-branch = True
-
-[report]
-omit = linguistica/gui/*
-show_missing = True
